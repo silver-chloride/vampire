@@ -1,0 +1,25 @@
+body {
+    background-color: antiquewhite;
+}
+
+.thing {
+    display: block;
+    position: absolute;
+
+    width: 10px;
+    height: 10px;
+
+    left: 50%;
+    top: 50%;
+
+    background-color: black;
+}
+
+.vampire {
+    background-color: red;
+}
+
+#day {
+    margin: 20px;
+    font-size: 1.5rem;
+}
